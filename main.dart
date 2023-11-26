@@ -19,8 +19,8 @@ class MyApp extends StatelessWidget {
           title: Row(
             children: [
               Icon(Icons.home),
-              SizedBox(width: 8),
-              Text(' Hello Kalibutan'),
+              SizedBox(width: 6),
+              Text(' Hello Kalibutan || No.17 Exam'),
             ],
           ),
         ),
